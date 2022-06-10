@@ -1,0 +1,4 @@
+E->abT
+T->(L)T|[E]T|a|^
+L->ER
+R->,ER|b

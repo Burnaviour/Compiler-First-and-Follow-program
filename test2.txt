@@ -1,0 +1,3 @@
+A->BwA|^
+B->CxB|yC
+C->z
